@@ -1,0 +1,6 @@
+framework module HHPackKit {
+  umbrella header "HHPackKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

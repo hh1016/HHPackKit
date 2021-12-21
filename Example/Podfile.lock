@@ -1,0 +1,16 @@
+PODS:
+  - HHPackKit (0.1.0)
+
+DEPENDENCIES:
+  - HHPackKit (from `../`)
+
+EXTERNAL SOURCES:
+  HHPackKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HHPackKit: f83cf9799fe59be133ee47a964bb42b4c9580f0b
+
+PODFILE CHECKSUM: c8712c37b637e6ead8e0eb7d9ab514b41d059cc5
+
+COCOAPODS: 1.11.2
