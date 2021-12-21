@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HHPackKit_Example' do
+  pod 'HHPackKit', :path => '../'
+
+  target 'HHPackKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
